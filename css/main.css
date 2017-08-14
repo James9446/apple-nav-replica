@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+}
+
+
+nav {
+	background: #040404;
+	height: 44px;
+}
+
+nav ul {
+	text-align: center;
+	padding: 11px 0;
+
+}
+
+nav ul li {
+	display: inline;
+	padding: 0 35px;
+	font-family: helvetica;
+	font-size: 13px;
+	font-weight: 200;
+	letter-spacing: 1.2px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #FFF;
+}
+
+nav a:hover {
+	color: #969696;
+}
+
+.fa-apple {
+	font-size: 20px;
+}
+
+.fa-search .fa-shopping-bag {
+	font-size: 15px;
+}
